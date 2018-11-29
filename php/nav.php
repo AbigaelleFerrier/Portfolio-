@@ -1,5 +1,5 @@
 
-    <nav class="white nav-extended scrollspy" role="navigation" id="nav">
+    <nav class="grey nav-extended scrollspy" role="navigation" id="nav">
 
         <div class="nav-wrapper container">
             <a id="logo-container" href="#" class="brand-logo">Ferrier Cirill</a>
